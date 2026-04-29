@@ -112,7 +112,7 @@ shm-tools/
 │       ├── fdd/            # Frequency Domain Decomposition core
 │       ├── indicators/     # MD / MS / MC damage indicators
 │       └── plotting/       # Time-history, spectra, modal plots
-├── examples/               # Runnable example scripts (01-04)
+├── examples/               # Runnable example scripts (01–04)
 ├── tests/                  # pytest unit tests
 ├── data/                   # Sample data + generator script
 ├── output/                 # Saved figures (git-ignored)

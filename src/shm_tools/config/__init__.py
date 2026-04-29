@@ -1,1 +1,2 @@
-# config package — paste your config/__init__.py content here
+from shm_tools.config.models import ShmConfig as ShmConfig  # noqa: F401
+__all__ = ["ShmConfig"]
